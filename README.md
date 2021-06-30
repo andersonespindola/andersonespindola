@@ -1,4 +1,4 @@
-### Olá, eu sou o Anderson 👋
+### Olá, eu sou o Anderson 🥷
 
 [![Website](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/andersonespindola)
 [![LinkedIn Follow](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-espindola/)
@@ -7,7 +7,7 @@
 <br />
 
 <p>  
-  <a href="https://github.com/andersonespindola/github-readme-stats">
+  <a href="https://github.com/andersonespindola?tab=repositories">
     <img
       align="center"
       height="165"
